@@ -1,3 +1,8 @@
+# nodejs-aws-fe
+
+**This is rsSchool Clone from**
+https://github.com/rolling-scopes-school/nodejs-aws-fe.git
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
