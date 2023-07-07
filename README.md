@@ -3,16 +3,18 @@
 **This is rsSchool Clone from**
 https://github.com/rolling-scopes-school/nodejs-aws-fe.git
 
+link: http://alami-nodejs-aws-shop-react.s3-website-us-east-1.amazonaws.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:  
 You can use NPM instead of YARN (Up to you)  
 
 ### `yarn start` OR `npm run start`
 
-Runs the app in the development mode.<br />
+Run.s the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
